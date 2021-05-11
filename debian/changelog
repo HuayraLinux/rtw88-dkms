@@ -1,0 +1,11 @@
+rtw88-dkms (0.6.1) torbellino; urgency=medium
+
+  * Arregla archivo dkms
+
+ -- Matias De lellis <mati86dl@gmail.com>  Tue, 11 May 2021 20:32:29 -0300
+
+rtw88-dkms (0.6.0) torbellino; urgency=medium
+
+  * Version inicial
+
+ -- Matias De lellis <mati86dl@gmail.com>  Tue, 11 May 2021 19:46:45 -0300

@@ -1,0 +1,3 @@
+[submodule "rtw88"]
+	path = rtw88
+	url = https://github.com/lwfinger/rtw88.git

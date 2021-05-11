@@ -1,0 +1,12 @@
+Source: rtw88-dkms
+Section: kernel
+Priority: optional
+Maintainer: Matias De lellis <mati86dl@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), dkms
+Standards-Version: 3.9.8
+Vcs-Git: https://github.com/HuayraLinux/rtw88-dkms.git
+
+Package: rtw88-dkms
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, dkms, linux-headers-686-pae | linux-headers-amd64
+Description: Controladores nuevos para dispositivos realtek como dkms
